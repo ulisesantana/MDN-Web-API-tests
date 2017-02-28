@@ -1,0 +1,25 @@
+main{
+    padding: 5vh;
+}
+
+#title-nav{
+    font-size: 24px;
+}
+
+#title-nav:hover{
+    background-color: inherit;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+small{
+    font-size: 50%;
+}
+
+@media screen and (min-width: 992px) {
+    main{
+        padding: 10vh 10vh 10vh 55vh;
+    }
+}
